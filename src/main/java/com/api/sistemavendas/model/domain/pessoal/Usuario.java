@@ -1,4 +1,4 @@
-package com.api.sistemavendas.model;
+package com.api.sistemavendas.model.domain.pessoal;
 
 public class Usuario {
     private String nome;
